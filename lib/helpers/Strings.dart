@@ -1,8 +1,8 @@
 class Strings {
-  static var stepOneTitle = "Farm Driving";
-  static var stepOneContent = "There are all kinds of equipment to build your farm better harvest";
-  static var stepTwoTitle = "Plant Growing";
-  static var stepTwoContent = "Be part of the agriculture and gives your team the  power you need to do your best";
-  static var stepThreeTitle = "Fast Harvesting";
-  static var stepThreeContent = "Your will be proud to be part of agriculture and it’s harvest";
+  static var stepOneTitle = "Enjoy The New Arrival Product";
+  static var stepOneContent = "Get your dream item easily and safely with Shoesly. And get other interesting offers";
+  static var stepTwoTitle = "Guaranteed Safe Delivery";
+  static var stepTwoContent = "Get your dream item easily and safely with Shoesly. And get other interesting offers";
+  static var stepThreeTitle = "Goods Arrived On Time";
+  static var stepThreeContent = "Get your dream item easily and safely with Shoesly. And get other interesting offers";
 }
